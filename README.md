@@ -1,18 +1,17 @@
-<div style="text-align: center;">
-  <img src="https://foruda.gitee.com/avatar/1699369775963451692/13673284_nekox41_1699369775.png!avatar200" alt="Project Logo" style="border-radius:50%" width="150">
+<div align="center">
+<h1>若依-会计模块 :two_hearts:</h1> 
 </div>
-<h1 style="text-align: center;">若依-会计模块:two_hearts:</h1>
 
 ---
 
-<p style="text-align: center;">
-  <a href="https://github.com/yourusername/yourproject/stargazers"><img src="https://img.shields.io/github/stars/yourusername/yourproject.svg?style=social&label=Star" alt="GitHub stars"></a>
-  <a href="https://github.com/yourusername/yourproject/network/members"><img src="https://img.shields.io/github/forks/yourusername/yourproject.svg?style=social&label=Fork" alt="GitHub forks"></a>
-  <a href="https://github.com/yourusername/yourproject/issues"><img src="https://img.shields.io/github/issues/yourusername/yourproject.svg" alt="GitHub issues"></a>
-  <a href="https://github.com/yourusername/yourproject/blob/master/LICENSE"><img src="https://img.shields.io/github/license/yourusername/yourproject.svg" alt="License"></a>
+<p style="text-align: center;"> 
+  <a href="https://github.com/nekox41/RuoYi-Account/stargazers"><img src="https://img.shields.io/github/stars/nekox41/RuoYi-Account.svg?style=social&label=Star" alt="GitHub stars"></a>                                                                                      
+  <a href="https://github.com/nekox41/RuoYi-Account/network/members"><img src="https://img.shields.io/github/forks/nekox41/RuoYi-Account.svg?style=social&label=Fork" alt="GitHub forks"></a>                                                                                    
+  <a href="https://github.com/nekox41/RuoYi-Account/issues"><img src="https://img.shields.io/github/issues/nekox41/RuoYi-Account.svg" alt="GitHub issues"></a>                                                                             
+  <a href="https://github.com/nekox41/RuoYi-Account/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nekox41/RuoYi-Account.svg" alt="License"></a>             
 </p>
 
-<p style="text-align: center;">
+<p style="text-align: center;"> 
   简短的项目描述，包括项目的功能和目标。
 </p>
 
@@ -42,7 +41,7 @@
 
 ## 许可证
 
-该项目采用 [MIT License](LICENSE)。
 
+该项目采用 [MIT License](LICENSE)。
 
 
